@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{2C7CE90FD6C338AD}DayZExpansion/Quests/Particles/data/Expansion_Quest_Marker_2.edds"
+ Author "desktop-e8g26fa"
+ ChangeDate -1699500375
+ Configurations {
+  DDSResourceClass PC {
+   SourceFile "Expansion_Quest_Marker_2.dds"
+  }
+  DDSResourceClass XBOX_ONE : PC {
+  }
+  DDSResourceClass PS4 : PC {
+  }
+  DDSResourceClass LINUX : PC {
+  }
+ }
+}

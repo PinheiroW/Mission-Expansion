@@ -1,0 +1,81 @@
+EffectDef {
+ Emitors {
+  EmitorDef questionmark {
+   ShapeType Point
+   ConeAngle 0 0 0
+   MaxNum 1
+   BirthRate 1
+   BirthRateRND 0
+   BirthRateVel 1
+   Offset 0 0 0
+   LocalTransform 0
+   Material "{045149C9C945220C}DayZExpansion/Quests/Particles/data/materials/Expansion_Quest_Marker.emat"
+   SizeMultiplier 0.5
+   SizeRND 0
+   RandomRotDir 0
+   RotMultiplier 0
+   StretchMultiplier 0
+   RandomAngle 0
+   Velocity 0.5
+   VelocityRND 0
+   VelAffect 0
+   AirResistance 0.5
+   AirResistanceRND 0
+   GravityMultiply 0.1
+   Wind 0
+   AnimOnce 0
+   LifetimeByAnim 1
+   RandomFrame 0
+   LifeTime 0.75
+   LifeTimeRND 0.25
+   Color {
+    0 0.949 0.6118 0.0706 1 0.9529 0.6118 0.0706
+   }
+   Alpha {
+    0 0 0.1236 1 0.62525 0 1 0
+   }
+   Size {
+    0 0.5 1 0.5
+   }
+   EffectTime 0.75
+  }
+  EmitorDef exclamationmark {
+   ShapeType Point
+   ConeAngle 0 0 0
+   MaxNum 1
+   BirthRate 1
+   BirthRateRND 0
+   BirthRateVel 1
+   Offset 0 0 0
+   LocalTransform 0
+   Material "{0965F198360C5BB2}DayZExpansion/Quests/Particles/data/materials/Expansion_Quest_Marker_2.emat"
+   SizeMultiplier 0.5
+   SizeRND 0
+   RandomRotDir 0
+   RotMultiplier 0
+   RandomAngle 0
+   Velocity 0.5
+   VelocityRND 0
+   VelAffect 0
+   AirResistance 0.5
+   AirResistanceRND 0
+   GravityMultiply 0.1
+   Wind 0
+   AnimOnce 0
+   LifetimeByAnim 1
+   RandomFrame 0
+   LifeTime 0.75
+   LifeTimeRND 0.25
+   Color {
+    0 0.949 0.6117 0.0706 1 0.949 0.6117 0.0706
+   }
+   Alpha {
+    0 0 0.1236 1 0.62525 0 1 0
+   }
+   Size {
+    0 0.5 1 0.5
+   }
+   EffectTime 0.75
+  }
+ }
+}

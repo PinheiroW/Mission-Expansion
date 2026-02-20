@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{045149C9C945220C}DayZExpansion/Quests/Particles/data/materials/Expansion_Quest_Marker.emat"
+ Author "desktop-e8g26fa"
+ ChangeDate 1871425194
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass LINUX : PC {
+  }
+ }
+}

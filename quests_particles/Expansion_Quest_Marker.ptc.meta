@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{E255A33ABC133972}DayZExpansion/Quests/Particles/Expansion_Quest_Marker.ptc"
+ Author "desktop-e8g26fa"
+ ChangeDate 764128938
+ Configurations {
+  PTCResourceClass PC {
+  }
+  PTCResourceClass XBOX_ONE : PC {
+  }
+  PTCResourceClass PS4 : PC {
+  }
+  PTCResourceClass LINUX : PC {
+  }
+ }
+}

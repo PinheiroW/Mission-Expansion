@@ -1,0 +1,9 @@
+Particle {
+ AlbedoMap "{65E039037ADEA391}DayZExpansion/Quests/Particles/data/Expansion_Quest_Marker.edds" 
+ Color 0 0 0 1
+ Ambient 0 0 0 1
+ Emissive 1 1 1 0
+ Sort translucent
+ NormalMap alpha 
+ BlendMode Additive_AlphaModulate
+}
